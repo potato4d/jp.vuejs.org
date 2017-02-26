@@ -645,7 +645,7 @@ type: api
 
 ### renderError
 
-> 2.2.0 からの進行
+> 2.2.0 からの新機能
 
 - **型:** `(createElement: () => VNode, error: Error) => VNode`
 
